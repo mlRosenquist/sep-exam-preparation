@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-01-22T23:46:35+01:00
+
+====== Reading Plan ======
+Exam structure: 
+* da
+
+[ ] See Exam video
+[ ] Go through slides of exam topics and note which slides are used
+	[ ] [[1 - Software Development & Project Management]]
+	[ ] [[2 - Requirements Description and Elicitation]]
+	[ ] [[3 - Requirements Validation]]
+	[ ] [[4 - Software Quality]]
+	[ ] [[5 - Software Architecture]]
+	[ ] [[6 - Validation and Verification]]
+	[ ] [[7 - Reuse]]
+	[ ] [[8 - Safety Critical Software]]
+	[ ] [[9 - Change Management -  Configuration Management]]
+	Slides used: 
+	[ ] 1 -  Intro
+	[ ] 2 - Configuration Management
+	[ ] 2 - Development Process
+	[ ] 2 - Project Management
+	[ ] 3 - Requirement Introduction
+	[ ] 4 - Requirement Elicitation
+	[ ] 5 - Requirement Analysis
+	[ ] 6 - Requirement Validation
+	[ ] 7 - Requirements for Safety Critical Systems
+	[ ] 8 - Arch Design
+	[ ] 9 - Software Verification Testing
+	[ ] 9 - VDM Combinatorial Testing
+	[ ] 10 - Software Specification VDM SL
+	[ ] 11 - FM Technology in Industry
+	[ ] 11 - Full Cash Dispenser - short
+	[ ] 11 - Full Cash Dispenser 
+	[ ] 12 - Design
+	[ ] 12 - Quality
+	[ ] 13 - Software Verification Proof
+	[ ] 14 - Validation Using Simulation
+[ ] Prepare dispositions (maybe slides or 5 words ) for each topic
+[ ] Practice dispositions 
