@@ -12,9 +12,9 @@ Exam structure:
 	[*] [[2 - Requirements Description and Elicitation]]
 	[*] [[3 - Requirements Validation]]
 	[*] [[4 - Software Quality]]
-	[ ] [[5 - Software Architecture]]
+	[*] [[5 - Software Architecture]]
 	[ ] [[6 - Validation and Verification]]
-	[ ] [[7 - Reuse]]
+	[*] [[7 - Reuse]]
 	[ ] [[8 - Safety Critical Software]]
 	[ ] [[9 - Change Management -  Configuration Management]]
 	Slides used: 
@@ -27,7 +27,7 @@ Exam structure:
 	[ ] 5 - Requirement Analysis
 	[*] 6 - Requirement Validation
 	[ ] 7 - Requirements for Safety Critical Systems
-	[ ] 8 - Arch Design
+	[*] 8 - Arch Design
 	[ ] 9 - Software Verification Testing
 	[ ] 9 - VDM Combinatorial Testing
 	[ ] 10 - Software Specification VDM SL
@@ -48,5 +48,11 @@ Exam structure:
 	[ ] [[7 - Reuse]]
 	[ ] [[8 - Safety Critical Software]]
 	[ ] [[9 - Change Management -  Configuration Management]]
-[ ] Go threat assignment and see how they correlate to topics 
+[ ] Go through assignment and see how they correlate to topics 
+	[ ] 1 
+	[ ] 2 
+	[ ] 3 
+	[ ] 4 
+	[ ] 5 
+	[ ] 6 
 [ ] Practice outlines 

@@ -2,6 +2,103 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:55:07+01:00
 
+====== Video notes: ======
+* How a system is made up
+* Step after requirements and before implementation
+* Complex drawings limit their usefullness
+* Similar to requirement analysis 
+	* No code generated 
+	* Hard to make decisions
+* Patterns is based on prior experiences. 
+	* Template for a solution. 
+	* Skeleton. 
+	* Structure of the system
+	* Approach to create structure
+	* Relation between components
+* Architecture design decisions deal with non functional requirements
+* Compromises. Its a weight of software quality attributes. 
+* Lower level (components) are the functional requirements.
+* Conceptual level before implemented
+* Addresses both structure and behaviour
+* Different stakeholder need different info
+* Development View
+	* Package Diagram
+* Logical View
+	* Class
+	* State
+	* Sequence
+* Process
+	* Process Diagram
+* Physical
+	* Deployment
+* Conceptual View
+	* Boxes. 
+	* High-level requirements into more detailed specification. 
+	* Step between requirements and implementation. 
+	* Else would be hard to map. 
+
+* MVC - user interfaces
+* Layers -
+* Repository -
+* Client - Server
+* Pipe and filter
+	* Unix based software
+	* Batch processing
+	* Concurrency
+	* Sequential - but can parallelize
+	* Video processing
+	* Computation power has increased
+	* If proccesses can be split in stages.
+	* Identitible maintainable and reconfigurable
+* Client Server vs. Repository
+	* Client server is far more distant. 
+	* Each server only does one thing
+	* Most easy to change the server. 
+	* Repository the interfaces need to be maintained and shared
+	* More tightly coupled. 
+	* Other services work when removed from client server. 
+	* Repository also loses the functionality. 
+	* New functionality. We need to inform the new clients. Easier on repository. 
+* Layer vs Repository
+	* Easier to test layer. Need to mock stuff out. 
+	* Not easy modifiable layer. 
+	* Layer reusable
+	* Security layer is better
+	* Performance layer is worse. Because all services need to pass layers. Bypass. 
+* Layer vs N-tier
+	* N-tier = cloud computation
+		* Slim frontend
+		* Servers in backend
+		* Tv small processing power
+	* Layer = our PC
+* Layer vs Client Server
+	* When developing it might be layer using sockets locally
+	* But then when deploying its a client server
+	* Easy for testing
+* Hard to decide the right architecture. Still in doubt in when implemented
+* Always negative points
+* Pros and cons. The pros need to outweight the cons. 
+* No clear cut decisions for or against one architecture
+* Use implementations to pretend you have a network for testing
+* Software is invisible. THerefore we need documentation
+
 ====== Software Architecture ======
+{{./pasted_image.png}}
+===== What is Software Architecture? =====
+* Address Non-functional requirement
+* Components address functional requirements
+* Architectural design address structure and behaviour
 
+{{./pasted_image001.png}}
 
+===== How to represent Software Architecture? =====
+{{./pasted_image002.png}}
+==== Krutchen 4 + 1 ====
+* Abstracting parts of systems as objects and object classes (Object oriented context)
+* Interacting processes at run time
+* Breakdown of components
+* Software across different processors
+{{./pasted_image003.png}}
+
+===== Architecture Patterns =====
+{{./pasted_image004.png}}

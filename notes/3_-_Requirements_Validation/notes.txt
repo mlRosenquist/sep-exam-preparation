@@ -17,6 +17,7 @@ Creation-Date: 2022-01-22T23:54:09+01:00
 {{./pasted_image005.png}}
 
 ===== Problem Frames =====
+* Conceptual level of system. Dont care what it look like inside. 
 {{./pasted_image006.png}}
 
 ==== Problem ====

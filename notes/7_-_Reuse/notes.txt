@@ -2,6 +2,143 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:55:22+01:00
 
-====== notes ======
-Created Saturday 22 January 2022
+====== Video ======
+TODO: There is some stuff in development process about reuse. 
+TODO: Therac-25 case
+
+* Requirement part we have discussed we have reuse of methodologies and experience. !!!!!!!
+* Therac-25 case. Where reuse was a disadvantage. It was dangerous. The CR scan.
+* Difficult subject
+	* Attractive
+	* Dangerous
+* En object oriented programming when inherting and overriding, leads to code that is hard to maintain. 
+* Can be impossibly to modify
+* Reuse software at different levels
+* Reuse intended to be maximized work for certain software. 
+* Not good idea to enforce in general. 
+* System Reuse
+	* When a system is hard to replace. Kobold example. Bank industry. 
+	* Write wrapper around it
+	* Quite common
+* Application reuse
+	* Keep whole applications
+	* Integrate word into your applications
+	* Docmat example
+* Component reuse
+	* Video processing
+* object, function
+	* Standard libraries.
+	* Using standard data types
+	* No deeper functionality
+	* No business logic
+* concept reuse
+	* Design patterns
+	* Use prior knowledge
+* Should be used with care
+* Need to weight pros and cons 
+* Mainentance problem
+* OO programming
+	* Plan was to reuse object classes
+	* Hard to see what is achieved
+	* easier to reimplement
+	* use aggregation instead of inheritance. 
+* application framework. 
+	* Inheritance
+	* Might be geared towards one operating systems
+	* Android applications for
+	* Many web application.
+	* add your business logic
+	* Main application inherits from framework
+	* Hooks, extensions
+	* MVC example. Razor.
+	* Standard way. Mac and Windows. 
+	* Observer patterns used. 
+	* Microsoft .NET
+		* Office product family
+		* Extensible
+		* Large components can be reused
+	* Locking platform we want to run on. But that is most likely wanted
+* Product lines
+	* Their reuse is planned up front
+	* Components are to reused across the system
+	* The boundary is clearly defined
+	* Planned reuse
+	* Begins when we look at software architecture
+	* Printer example
+		* Models with have a lot of shared software
+		* Operating systems use printer drivers. 
+		* Same interface. With small changes. 
+	* Core components that are used by family members of product line
+		* Developed by seperate team
+		* Some configuraition around core components
+	* Dont leak specialized in core components. 
+	* Viable form of reuse
+	* No different version of core components
+	* Origin related to hardware
+
+* Application frameworks vs product lines
+	* application framework are on lower level. Software oriented. 
+	* Can make application framework into product line. 
+* Software product line
+	* Domain specific language for printer driver 
+		* Easy to add extend or configure
+		* Good idea about shared component and extensions
+		* Adatable and good reuse
+* Domain specific languages
+	* Abstract from interfaces by high way languages like a interpreter
+	* Choose which function should be employed
+	* Examples:
+		* SQL
+		* reg ex
+		* HTML
+		* MATLAB
+		* R
+	* Specialized for a purpose. To certain problem domains
+	* Example:
+		* Write a translator that parses DSL programs. 
+		* Implemented in geneeral purpose programming language
+		* Robot commands.
+		* Easier to edit abstract.
+	* Depends highly on the domain
+	* Printer driver good example
+	* XML or LISP 
+	* DSL well for product lines
+	* XML printer
+		* write specialized diffs for driver
+		* use core component
+		* Some configuration to map from XML to what it should do. 
+
+====== Reuse ======
+
+===== What is reuse? =====
+{{./pasted_image.png}}
+===== Types of reuse =====
+{{./pasted_image001.png}}
+{{./pasted_image002.png}}
+==== Application Framework ====
+{{./pasted_image003.png}}
+{{./pasted_image004.png}}
+{{./pasted_image005.png}}
+==== Software product line ====
+{{./pasted_image006.png}}
+{{./pasted_image007.png}}
+==== Comparison ====
+{{./pasted_image008.png}}
+===== Domain Specific Language =====
+{{./pasted_image009.png}}
+{{./pasted_image010.png}}
+{{./pasted_image011.png}}
+{{./pasted_image012.png}}
+{{./pasted_image013.png}}
+{{./pasted_image014.png}}
+{{./pasted_image015.png}}
+{{./pasted_image017.png}}
+===== Terach example =====
+{{./pasted_image018.png}}
+{{./pasted_image019.png}}
+===== Development Process =====
+{{./pasted_image020.png}}
+
+
+
 
