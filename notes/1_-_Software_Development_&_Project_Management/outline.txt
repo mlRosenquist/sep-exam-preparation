@@ -3,5 +3,6 @@ Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:53:53+01:00
 
 ====== outline ======
-Created Saturday 22 January 2022
+
+Start with project management then include software engineering slowly
 

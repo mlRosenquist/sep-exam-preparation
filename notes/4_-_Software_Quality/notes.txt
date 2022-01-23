@@ -2,6 +2,42 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:54:17+01:00
 
-====== notes ======
-Created Saturday 22 January 2022
+====== Software Quality ======
+
+===== What is Software Quality? =====
+{{./pasted_image.png}}
+{{./pasted_image012.png}}
+
+===== Why is Software Quality important? =====
+{{./pasted_image001.png}}
+===== How to ensure quality? =====
+{{./pasted_image002.png}}
+{{./pasted_image005.png}}
+==== Quality Assurance ====
+{{./pasted_image006.png}}
+{{./pasted_image009.png}}
+{{./pasted_image011.png}}
+==== Quality Planning ====
+{{./pasted_image007.png}}
+==== Quality Control ====
+{{./pasted_image008.png}}
+{{./pasted_image013.png?width=493}}
+
+===== Process Improvement =====
+{{./pasted_image025.png}}
+{{./pasted_image014.png}}
+{{./pasted_image015.png}}
+{{./pasted_image016.png}}
+==== Types of Processes ====
+{{./pasted_image018.png}}
+==== What to Measure? ====
+{{./pasted_image019.png}}
+{{./pasted_image020.png}}
+==== Change Processes ====
+{{./pasted_image021.png}}
+
+==== CMMI Framework ====
+{{./pasted_image022.png}}
+{{./pasted_image023.png}}
+{{./pasted_image024.png}}
 

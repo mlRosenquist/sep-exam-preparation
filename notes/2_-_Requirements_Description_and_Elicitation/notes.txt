@@ -2,6 +2,64 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:54:00+01:00
 
-====== notes ======
-Created Saturday 22 January 2022
+====== Requirements Description ======
 
+===== What is requirements? =====
+{{./pasted_image011.png}}
+{{./pasted_image.png}}
+{{./pasted_image001.png}}
+===== Who uses requirements? =====
+{{./pasted_image002.png}}
+===== Good requirements =====
+
+{{./pasted_image003.png}}
+{{./pasted_image004.png}}
+===== Reactive Systems =====
+{{./pasted_image006.png}}
+===== Transformational Systems =====
+{{./pasted_image005.png}}
+===== Non Functional Requirements =====
+{{./pasted_image007.png}}
+===== Software Requirement Specification  (SRS) =====
+{{./pasted_image008.png}}
+{{./pasted_image009.png}}
+===== Use Cases =====
+
+===== Task Descriptions =====
+
+===== Use Cases vs Task Descriptions =====
+{{./pasted_image013.png}}
+{{./pasted_image014.png}}
+===== Process =====
+{{./pasted_image015.png}}
+{{./pasted_image016.png}}
+==== Analysis ====
+{{./pasted_image017.png}}
+==== Specification ====
+{{./pasted_image018.png}}
+==== Validation ====
+{{./pasted_image019.png}}
+==== Elicitation ====
+TODO
+
+===== Requirement Problems =====
+{{./pasted_image020.png}}
+{{./pasted_image021.png}}
+{{./pasted_image022.png}}
+
+====== Requirements Elicitation ======
+
+===== What is requirements elicitation =====
+{{./pasted_image023.png}}
+===== Problems =====
+{{./pasted_image024.png}}
+===== Persons Involved =====
+{{./pasted_image025.png}}
+===== Requirement Sources =====
+{{./pasted_image026.png}}
+===== Techniques =====
+{{./pasted_image027.png}}
+{{./pasted_image028.png}}
+{{./pasted_image029.png}}
+{{./pasted_image030.png}}
+{{./pasted_image032.png}}

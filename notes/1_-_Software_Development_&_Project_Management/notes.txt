@@ -2,6 +2,83 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:53:35+01:00
 
-====== notes ======
-Created Saturday 22 January 2022
+====== Software Development ======
+
+===== Waterfall Model =====
+* Sequential
+* Also a version with iteration
+* Late testing
+* Did we build the right thing?
+
+{{./pasted_image.png}}
+===== V-Model =====
+* Variant of Waterfall Model
+* Emphasies validation and verification
+{{./pasted_image001.png}}
+
+===== The Spiral Model =====
+* Includes risk analysis and project management
+{{./pasted_image002.png}}
+
+
+===== Incremental Delivery =====
+{{./pasted_image003.png}}
+
+
+===== Agile Methods =====
+* Old methods drown in planning and organization
+* Lightweight
+{{./pasted_image004.png}}
+{{./pasted_image005.png}}
+
+
+==== Extreme Programming ====
+* Incremental Planning
+* Small releases
+* Simple design
+* Test driving development
+* Refactoring
+* Pair programming
+* Collective owner ship
+* CI / CD
+* on-site customer
+{{./pasted_image006.png}}
+
+==== Scrum ====
+* Artifiacts
+* Team: Developer, architects and product owner/manager
+{{./pasted_image007.png}}
+{{./pasted_image008.png}}
+
+===== Waterfall vs Spiral vs Agile =====
+{{./pasted_image010.png}}
+{{./pasted_image011.png}}
+{{./pasted_image012.png}}
+
+====== Project Management ======
+{{./pasted_image013.png}}
+{{./pasted_image014.png}}
+===== New Project =====
+{{./pasted_image015.png}}
+==== Feasibility Study ====
+{{./pasted_image016.png}}
+==== Plan ====
+{{./pasted_image017.png}}
+{{./pasted_image022.png}}
+{{./pasted_image023.png}}
+
+=== Activity Network ===
+* Estimates are hard
+* Requires revisions
+{{./pasted_image019.png}}
+{{./pasted_image018.png}}
+
+=== Gantt Chart ===
+* Visualise Progress
+* Milestones
+{{./pasted_image021.png}}
+
+
+
+
 

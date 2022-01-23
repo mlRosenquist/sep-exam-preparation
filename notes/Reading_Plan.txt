@@ -6,26 +6,26 @@ Creation-Date: 2022-01-22T23:46:35+01:00
 Exam structure: 
 * da
 
-[ ] See Exam video
+[x] See Exam video
 [ ] Go through slides of exam topics and note which slides are used
-	[ ] [[1 - Software Development & Project Management]]
-	[ ] [[2 - Requirements Description and Elicitation]]
-	[ ] [[3 - Requirements Validation]]
-	[ ] [[4 - Software Quality]]
+	[*] [[1 - Software Development & Project Management]]
+	[*] [[2 - Requirements Description and Elicitation]]
+	[*] [[3 - Requirements Validation]]
+	[*] [[4 - Software Quality]]
 	[ ] [[5 - Software Architecture]]
 	[ ] [[6 - Validation and Verification]]
 	[ ] [[7 - Reuse]]
 	[ ] [[8 - Safety Critical Software]]
 	[ ] [[9 - Change Management -  Configuration Management]]
 	Slides used: 
-	[ ] 1 -  Intro
+	[ ] 1 -  Introæ
 	[ ] 2 - Configuration Management
-	[ ] 2 - Development Process
-	[ ] 2 - Project Management
-	[ ] 3 - Requirement Introduction
-	[ ] 4 - Requirement Elicitation
+	[*] 2 - Development Process
+	[*] 2 - Project Management
+	[*] 3 - Requirement Introduction
+	[*] 4 - Requirement Elicitation
 	[ ] 5 - Requirement Analysis
-	[ ] 6 - Requirement Validation
+	[*] 6 - Requirement Validation
 	[ ] 7 - Requirements for Safety Critical Systems
 	[ ] 8 - Arch Design
 	[ ] 9 - Software Verification Testing
@@ -35,8 +35,18 @@ Exam structure:
 	[ ] 11 - Full Cash Dispenser - short
 	[ ] 11 - Full Cash Dispenser 
 	[ ] 12 - Design
-	[ ] 12 - Quality
+	[*] 12 - Quality
 	[ ] 13 - Software Verification Proof
 	[ ] 14 - Validation Using Simulation
-[ ] Prepare dispositions (maybe slides or 5 words ) for each topic
-[ ] Practice dispositions 
+[ ] Write outlines
+	[ ] [[1 - Software Development & Project Management]]
+	[ ] [[2 - Requirements Description and Elicitation]]
+	[ ] [[3 - Requirements Validation]]
+	[ ] [[4 - Software Quality]]
+	[ ] [[5 - Software Architecture]]
+	[ ] [[6 - Validation and Verification]]
+	[ ] [[7 - Reuse]]
+	[ ] [[8 - Safety Critical Software]]
+	[ ] [[9 - Change Management -  Configuration Management]]
+[ ] Go threat assignment and see how they correlate to topics 
+[ ] Practice outlines 

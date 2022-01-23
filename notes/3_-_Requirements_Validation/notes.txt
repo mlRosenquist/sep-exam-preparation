@@ -2,6 +2,44 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:54:09+01:00
 
-====== notes ======
-Created Saturday 22 January 2022
+
+====== Requirements Validation ======
+{{./pasted_image017.png}}
+{{./pasted_image.png}}
+===== How to perform requirement validation =====
+{{./pasted_image001.png}}
+==== Reviews ====
+{{./pasted_image002.png}}
+{{./pasted_image003.png}}
+
+==== Inspections ====
+{{./pasted_image004.png}}
+{{./pasted_image005.png}}
+
+===== Problem Frames =====
+{{./pasted_image006.png}}
+
+==== Problem ====
+* You are with a problem
+* This is basically the context of the system of what it should do 
+* You notice key words of the text. Which are to be used later. 
+
+==== Context Diagram ====
+* Describes domains need in the problem
+* Need to be sure they are needed
+{{./pasted_image007.png}}
+
+==== Domain Interfaces ====
+{{./pasted_image008.png}}
+==== Problem Diagrams ====
+* Introduces the requirements in the context diagram with the domain interfaces
+* Obvious to complex as is. To many aspect. 
+* Need to split out to only look at parts of the model at a time. 
+{{./pasted_image009.png}}
+{{./pasted_image010.png}}
+{{./pasted_image012.png}}
+
+==== Frame Concern ====
+{{./pasted_image013.png}}
+
 
