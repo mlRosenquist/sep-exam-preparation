@@ -2,6 +2,53 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:55:30+01:00
 
-====== notes ======
-Created Saturday 22 January 2022
+====== Safety Critical Systems ======
+{{./pasted_image002.png}}
+===== Terminology =====
 
+==== Safety Critical Systems ====
+{{./pasted_image003.png}}
+==== Failsafe Systems ====
+{{./pasted_image004.png}}
+==== Failures and Fault ====
+{{./pasted_image005.png}}
+{{./pasted_image006.png}}
+==== Lifetime ====
+{{./pasted_image008.png}}
+==== Safety ====
+{{./pasted_image025.png}}
+==== Reliability ====
+{{./pasted_image026.png}}
+==== Hazard ====
+{{./pasted_image027.png}}
+==== Risk ====
+{{./pasted_image028.png}}
+==== Risk Management ====
+{{./pasted_image029.png}}
+==== Safe vs Secure ====
+{{./pasted_image030.png}}
+===== Therac Example =====
+
+==== Story ====
+{{./pasted_image009.png}}
+{{./pasted_image010.png}}
+{{./pasted_image011.png}}
+{{./pasted_image012.png}}
+==== Lessons learned ====
+{{./pasted_image013.png}}
+{{./pasted_image014.png}}
+===== How to avoid =====
+{{./pasted_image015.png}}
+{{./pasted_image016.png}}
+==== Standards ====
+{{./pasted_image017.png}}
+==== Language choice ====
+{{./pasted_image018.png}}
+{{./pasted_image019.png}}
+{{./pasted_image021.png}}
+==== Development Process ====
+{{./pasted_image020.png}}
+==== Testing ====
+{{./pasted_image022.png}}
+{{./pasted_image023.png}}
+{{./pasted_image024.png}}

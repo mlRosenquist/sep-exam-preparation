@@ -1,0 +1,65 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-01-24T14:46:24+01:00
+
+====== Assignments Notes ======
+
+===== Assignment 1 =====
+* Choose V-Model. Simple. 
+* Ensures quality by looking at quality metrics
+* Configuration Management
+	* No Change management - but can report bugs
+	* Version management with git
+	* Building on build server
+	* Release management - defines artifacts to be included in release. 
+* To spare time, can drop steps of maintenance revalidation. 
+
+===== Assignment 2 =====
+* Task description are good early. 
+* Non-functional requirements are measurable. 
+
+===== Assignment 3 =====
+* Plenty of stakeholders
+* Assigning stakeholder to requirements 
+* Can seperate requirements in types, goal, domain, product and system
+
+===== Assignment 4 =====
+* Split requirements into assumptions, specification and properties
+{{./pasted_image.png}}
+{{./pasted_image001.png}}
+* Properties are domain level requirements
+* Domain level = experience of the user
+* product level = what the machine does
+
+===== Assignment 5 =====
+* Context Diagram
+* Domain Interfaces
+* Introduce requirements and split to sub tasks problem diagrams
+
+===== Assignment 6 =====
+* Main hazards
+	* Emitting microwaves
+	* Burning
+* Software dev responsbility that the settings of microwave is as the user select. 
+* Can use formal modelling to validate the set of requirements 
+* Formal verication like modal checking to prove software logic. 
+* Hard kill switch
+* Language choise
+	* Disable dangerous features 
+	* C++ should use c
+	* Follow good practices 
+	* Safety related software. 
+	* Type safety
+	* {{./pasted_image002.png}}
+
+
+
+
+
+
+
+
+
+
+
+

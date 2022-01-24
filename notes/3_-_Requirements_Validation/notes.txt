@@ -2,6 +2,54 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:54:09+01:00
 
+====== Lecture ======
+* Validating a requirement:
+	* A requirement is serving some usefull purpose. 
+	* If they are useless.
+	* Talk with client. 
+* Verifying a requirement:
+	* Evaluating if they are good or bad. 
+	* Cant be testable or measurable. 
+	* Conflicting requirements
+	* Ambigous. 
+* Verification in software:
+	* Testing
+* Verification vs Validation:
+	* Verification: You have build it in the right way. Build it correctly
+	* Validation: Is it actually the thing the customer wants. Satisfying the need. 
+* Problem frames
+	* Tool to reason through an argument, so you can present an argument. 
+	* Set of diagrams want to understand the requirements
+	* Context Diagrams
+		* Different domains
+			* Machine
+			* Designed
+			* Given
+			* Computer can be given
+	* Domain Interfaces
+		* Eaech interface is a set of shared phenomena
+			* events, states values
+	* Problem Diagrams
+		* Shows how requirements relates to problem domains
+		* Requirement can either change or dont the domain
+		* Projection: find subsets for each requirement -> Subproblem diagram (Can be more specific with machine name)
+		* Annotate domain: lexical(data representation), causal(predicable) and biddable (not-predictable)
+	* Frame Concern
+		* A bit like design patterns of level of requirements
+		* Use sub-problem diagram to make diagram
+		* If the system is organized in this way, then it will properties. 
+	* Visualizing requirements, so they can be validated. 
+* UML
+	* Not used to design architecture
+	* But to communicate and validate requirements 
+	* Non-formal - there is room for interpretation
+	* Talk about problem domain
+	* Communicate the domain.
+	* Use UML to communicate with clients. 
+* Reviews and Inspection
+* Formal meaning
+	* Agreed upon
+	* Exactly one interpretation
 
 ====== Requirements Validation ======
 {{./pasted_image017.png}}

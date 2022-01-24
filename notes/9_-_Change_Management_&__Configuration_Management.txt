@@ -2,5 +2,5 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:34:37+01:00
 
-====== 9 - Change Management -  Configuration Management ======
+====== 9 - Change Management &  Configuration Management ======
 Created Saturday 22 January 2022

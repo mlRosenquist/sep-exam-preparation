@@ -2,6 +2,86 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:55:15+01:00
 
-====== notes ======
-Created Saturday 22 January 2022
 
+====== Validation ======
+
+===== Testing =====
+
+==== System Testing ====
+{{./pasted_image033.png}}
+==== Acceptance Testing ====
+{{./pasted_image034.png}}
+===== Simulation =====
+{{./pasted_image048.png}}
+{{./pasted_image049.png}}
+{{./pasted_image050.png}}
+{{./pasted_image051.png}}
+====== Verification ======
+
+===== Testing =====
+
+=== General ===
+{{./pasted_image036.png}}
+{{./pasted_image006.png}}
+{{./pasted_image007.png}}
+{{./pasted_image008.png}}
+{{./pasted_image011.png}}
+{{./pasted_image012.png}}
+{{./pasted_image013.png}}
+{{./pasted_image014.png}}
+{{./pasted_image015.png}}
+{{./pasted_image016.png}}
+=== Methods ===
+{{./pasted_image017.png}}
+{{./pasted_image018.png}}
+{{./pasted_image019.png}}v
+
+==== White Box Testining ====
+
+=== Cyclomatic Complexity ===
+{{./pasted_image020.png}}
+{{./pasted_image021.png}}
+=== Unit Testing ===
+{{./pasted_image022.png}}
+{{./pasted_image024.png}}
+{{./pasted_image025.png}}
+=== Integration Testing ===
+{{./pasted_image026.png}}
+{{./pasted_image027.png}}
+==== Black Box Testing ====
+{{./pasted_image028.png}}
+{{./pasted_image029.png}}
+=== Equaivalence Partioning ===
+
+{{./pasted_image031.png}}
+{{./pasted_image030.png}}
+=== Boundary Values Analysis ===
+{{./pasted_image032.png}}
+=== System Testing ===
+{{./pasted_image033.png}}
+=== Acceptance Testing ===
+{{./pasted_image034.png}}
+=== Regression Testing ===
+{{./pasted_image035.png}}
+==== Combinatorial Testing ====
+{{./pasted_image037.png}}
+=== VDM ===
+{{./pasted_image038.png}}
+=== Model Checking ===
+{{./pasted_image039.png}}
+{{./pasted_image040.png}}
+{{./pasted_image041.png}}
+{{./pasted_image042.png}}
+===== Software Measurements and Metrics =====
+{{./pasted_image009.png}}
+{{./pasted_image010.png}}
+
+==== Formal Methods ====
+{{./pasted_image043.png}}
+{{./pasted_image044.png}}
+{{./pasted_image045.png}}
+{{./pasted_image046.png}}
+{{./pasted_image047.png}}
+====== Validation vs Verification ======
+{{./pasted_image.png}}
+{{./pasted_image003.png}}

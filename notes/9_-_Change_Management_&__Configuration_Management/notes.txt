@@ -1,0 +1,96 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-01-22T23:55:36+01:00
+
+====== Lecture video ======
+* You dont create something and then you are done
+* You create something that needs to change all the time. 
+	* Interfaces
+	* Domain
+	* Requirements
+	* Bugs
+* We need manages to handle this complexity
+* Change management
+	* New requirements
+	* Bugs
+* Version Management
+	* Lots of different versions
+	* Phone, desktop, windows, linux
+	* Product lines
+	* Step back and evaluate the snapshot
+	* Cant change previous versions
+	* Version numbering
+* System Building
+	* Source code are turned to obj files
+	* Automate this
+	* Link files
+	* Build is some sort of verification
+	* Scripts dictates what is to  be built -> dictates where files are going
+	* Building certain versions
+* Release management
+	* Internal vs external management
+	* Which versions should the client see
+	* What you expose to the outside world
+	* What is included
+		* Executaable
+		* Conf files
+		* Guide
+	* What is not included
+		* Tests
+		* Internal documents
+		* Source code 
+* Planning
+	* What should be managed: everything
+	* who is responsible:
+	* policies: 
+	* Tools to be used
+	* Processes
+* Queries to configuration database
+	* Need to know the versions of customer. For debugging
+	* configuration management plan determines the database and what is to be configured
+* Terminology
+	* Version is a snapshot
+	* Baseline: collection of version to make a system
+	* Release: version of system released to customer
+* Stakeholder ->   change request ->Change Control Board ->  Analysis ->Development -> Implementation
+* Version Control Systems
+	* Different tools
+	* Git
+		* Distributed
+		* Branching model
+			* master, develop, feature, release, hotfixes
+		* Work locally and push to origin
+		* Tag versions
+* Remarks
+	* Manages system change
+	* scheme for reffering documents
+
+====== Configuration Management ======
+
+===== Overview =====
+{{./pasted_image.png}}
+{{./pasted_image001.png}}
+{{./pasted_image002.png}}
+{{./pasted_image003.png}}
+===== Terminology =====
+{{./pasted_image004.png}}
+===== Change Management =====
+
+===== Version Management =====
+{{./pasted_image005.png}}
+{{./pasted_image006.png}}
+{{./pasted_image007.png}}
+===== Release Management =====
+{{./pasted_image008.png}}
+{{./pasted_image009.png}}
+===== System Building =====
+{{./pasted_image010.png}}
+
+
+===== Examples =====
+* GIT
+{{./pasted_image011.png}}
+* SVN
+
+
+

@@ -4,12 +4,36 @@ Creation-Date: 2022-01-23T12:51:59+01:00
 
 ====== General ======
 Created Sunday 23 January 2022
+* Validating a requirement:
+	* A requirement is serving some usefull purpose. 
+	* If they are useless.
+	* Talk with client. 
+* Verifying a requirement:
+	* Evaluating if they are good or bad. 
+	* Cant be testable or measurable. 
+	* Conflicting requirements
+	* Ambigous. 
+* Verification in software:
+	* Testing
+* Verification vs Validation:
+	* Verification: You have build it in the right way. Build it correctly
+	* Validation: Is it actually the thing the customer wants. Satisfying the need. 
 
 ===== Validation vs. Verification =====
 {{./pasted_image.png}}
-
-===== Verification vs Unit Testing =====
+{{./pasted_image005.png}}
+{{./pasted_image006.png}}
 
 ===== Problem frames =====
+Reason with requirements. And validate our requirements. 
+Visualize show the requirements and argue that they are correct. 
 
-
+===== VDM =====
+{{./pasted_image001.png}}
+{{./pasted_image002.png}}
+{{./pasted_image003.png}}
+{{./pasted_image004.png}}
+{{./pasted_image010.png}}
+{{./pasted_image007.png}}
+{{./pasted_image008.png}}
+{{./pasted_image009.png}}

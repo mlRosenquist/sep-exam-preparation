@@ -84,12 +84,33 @@ Creation-Date: 2022-01-22T23:55:07+01:00
 
 ====== Software Architecture ======
 {{./pasted_image.png}}
+===== Design Principles =====
+* SOLID
+	* Singe Responsibility
+	* Open closed
+	* Liscow
+	* Interface
+	* Dependency Inversion
+* DRY Dont repeat yourself
+* KISS - Keep it simple
+* YAGNI - You aitn gonna need it
+{{./pasted_image009.png}}
+
+===== Design Patterns =====
+{{./pasted_image008.png}}
+{{./pasted_image012.png}}
+===== Architectural Styles =====
+{{./pasted_image013.png}}
+{{./pasted_image010.png}}
+{{./pasted_image011.png}}
 ===== What is Software Architecture? =====
 * Address Non-functional requirement
 * Components address functional requirements
 * Architectural design address structure and behaviour
 
 {{./pasted_image001.png}}
+{{./pasted_image006.png}}
+{{./pasted_image007.png}}
 
 ===== How to represent Software Architecture? =====
 {{./pasted_image002.png}}
@@ -102,3 +123,6 @@ Creation-Date: 2022-01-22T23:55:07+01:00
 
 ===== Architecture Patterns =====
 {{./pasted_image004.png}}
+
+===== Architecture Pattern vs Design Patterns =====
+{{./pasted_image005.png}}

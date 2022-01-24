@@ -136,6 +136,9 @@ TODO: Therac-25 case
 ===== Terach example =====
 {{./pasted_image018.png}}
 {{./pasted_image019.png}}
+===== Design Pattern =====
+{{./pasted_image021.png}}
+{{./pasted_image022.png}}
 ===== Development Process =====
 {{./pasted_image020.png}}
 
