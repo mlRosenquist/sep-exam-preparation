@@ -4,5 +4,59 @@ Creation-Date: 2022-01-22T23:53:53+01:00
 
 ====== outline ======
 
-Start with project management then include software engineering slowly
+Context
+* Cant just get requirements from customer and develop furiously. 
+* Problems Projects (Estimates, Quality Standards, Progress Visibility, Role Definition, Success Criteria)
+* Need structure processes
 
+Project Management (Planning, Staffing)
+* New Project (Feasibility Study, Plan, Execute)
+* Risk Categories (Project, Product, Business)
+* Activity Networks / Gant Chartt
+Software Development 
+* Models (Waterfall, V, Spiral, XP, Scrum)
+* Comparison (Usability, Requirement flexibility, Feedback, Testing, Documentation,  Risk)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Context
+
+Project Management
+* New Project
+* Risk Categories
+* Visualization
+
+Software Development
+* Models
+* Comparison

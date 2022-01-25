@@ -52,6 +52,7 @@ Creation-Date: 2022-01-22T23:54:09+01:00
 	* Exactly one interpretation
 
 ====== Requirements Validation ======
+{{./pasted_image018.png}}
 {{./pasted_image017.png}}
 {{./pasted_image.png}}
 ===== How to perform requirement validation =====

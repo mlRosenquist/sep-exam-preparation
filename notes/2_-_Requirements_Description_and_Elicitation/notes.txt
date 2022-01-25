@@ -24,9 +24,9 @@ Creation-Date: 2022-01-22T23:54:00+01:00
 {{./pasted_image008.png}}
 {{./pasted_image009.png}}
 ===== Use Cases =====
-
+{{./pasted_image033.png}}
 ===== Task Descriptions =====
-
+{{./pasted_image034.png}}
 ===== Use Cases vs Task Descriptions =====
 {{./pasted_image013.png}}
 {{./pasted_image014.png}}

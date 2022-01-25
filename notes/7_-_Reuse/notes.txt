@@ -3,9 +3,6 @@ Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:55:22+01:00
 
 ====== Video ======
-TODO: There is some stuff in development process about reuse. 
-TODO: Therac-25 case
-
 * Requirement part we have discussed we have reuse of methodologies and experience. !!!!!!!
 * Therac-25 case. Where reuse was a disadvantage. It was dangerous. The CR scan.
 * Difficult subject

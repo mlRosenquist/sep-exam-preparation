@@ -39,7 +39,25 @@ Exam structure:
 	[*] 14 - Validation Using Simulation
 [*] Read the failures document
 [*] Go through missing slides and see what they can relate to
-[ ] Write outlines
+[*] Go through assignment and see how they correlate to topics 
+	[*] 1 
+	[*] 2 
+	[*] 3 
+	[*] 4 
+	[*] 5 
+	[*] 6 
+[*] Læs op på ting i general
+[*] Write outlines with helper notes
+	[*] [[1 - Software Development & Project Management]]
+	[ ] [[2 - Requirements Description and Elicitation]]
+	[ ] [[3 - Requirements Validation]]
+	[ ] [[4 - Software Quality]]
+	[ ] [[5 - Software Architecture]]
+	[ ] [[6 - Validation and Verification]]
+	[ ] [[7 - Reuse]]
+	[ ] [[8 - Safety Critical Software]]
+	[ ] [[9 - Change Management &  Configuration Management]]
+[ ] Practice outlines with helper notes
 	[ ] [[1 - Software Development & Project Management]]
 	[ ] [[2 - Requirements Description and Elicitation]]
 	[ ] [[3 - Requirements Validation]]
@@ -49,15 +67,17 @@ Exam structure:
 	[ ] [[7 - Reuse]]
 	[ ] [[8 - Safety Critical Software]]
 	[ ] [[9 - Change Management &  Configuration Management]]
-[*] Go through assignment and see how they correlate to topics 
-	[*] 1 
-	[*] 2 
-	[*] 3 
-	[*] 4 
-	[*] 5 
-	[*] 6 
-[*] Læs op på ting i general
-[ ] Practice outlines 
+[ ] Write outlines with 5 words
+	[ ] [[1 - Software Development & Project Management]]
+	[ ] [[2 - Requirements Description and Elicitation]]
+	[ ] [[3 - Requirements Validation]]
+	[ ] [[4 - Software Quality]]
+	[ ] [[5 - Software Architecture]]
+	[ ] [[6 - Validation and Verification]]
+	[ ] [[7 - Reuse]]
+	[ ] [[8 - Safety Critical Software]]
+	[ ] [[9 - Change Management &  Configuration Management]]
+[ ] Practice outlines with 5 words
 	[ ] [[1 - Software Development & Project Management]]
 	[ ] [[2 - Requirements Description and Elicitation]]
 	[ ] [[3 - Requirements Validation]]

@@ -3,5 +3,93 @@ Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:55:33+01:00
 
 ====== outline ======
-Created Saturday 22 January 2022
+
+Terminology:
+* Safety Critical System
+	* Failures leads to loss of (Life, Health, Well Being)
+	* Safety is assured
+* Safety 
+	* Property ensures endangerment 
+	* No Accidents or losses
+	* Ensure safe operation
+* Security:
+	* System shall not be compromised
+* **Failsafe Sysatem:**
+	* **Fail in a safe state**
+* **Fault**
+	* **Cause of an error**
+* **Failure: **
+	* **Failing to perform intended function**
+* Useful lifetime
+	* Early Failures
+	* Random Failures
+	* Wearout Failures
+* Accident:
+	* Critical events that leads to disaster
+* Incident
+	* Less critical than accidents. Can  be come accident. 
+* Reliability 
+	* System does its intended function
+* Hazard
+	* Situation where there is the danger of accident occuring
+* Risk 
+	* Combining chance of hazardous event and its severity
+* Risk Management
+	* Reducing risks to tolerable risk or lower. 
+
+
+
+GENERAL OVERVIEW OF  TERMS
+
+HOW TO MANAGE SAFETY
+* Quality management should be a process included in project
+* Here safety should be included
+* Safety plan
+	* Responsibles
+	* Hazard and risk analysis
+SOFTWARE IN SAFETY CRITICAL SYSTEMS
+* Causes (side effect, controlfow, expression evaluation)
+* Standards
+* Restric constructs of programming languages
+* Static Analysis tools 
+	* Without opepration
+		* Formal Verification
+		* Control flow analysis
+		* Reviews
+		* Metrics
+* Dynamic Analysis (Testing)
+	* Black Box / White Box
+	* Random
+	* Coverage
+* Equivalence partioniing
+* Boundary Value Analysis
+* Performance / Stress Test
+* Simulation
+Therac-25 example:
+* Specification and documentation
+* Quality Assurance
+* Assembly
+* Testing and formal analysis
+* Usability 
+
+Andreas: 
+safety critical
+
+hvad der kan gå galt, therac
+
+Software i critical 
+
+fejl der kan ske
+
+sprog vi ikke vil bruge
+
+validation, vertification og static analyse. Finde fejle før run time. 
+
+
+
+
+
+
+
+
 

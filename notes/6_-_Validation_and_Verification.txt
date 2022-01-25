@@ -3,5 +3,28 @@ Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:34:08+01:00
 
 ====== 6 - Validation and Verification ======
-Created Saturday 22 January 2022
 
+Context
+* Completed requirements and architecture. 
+* Requirements are verified (good) and validated (the right ones)
+* Now we want to develop some functionality
+
+Verification (bottom of v-model)
+* Building the product right
+* White box
+* Unit (Drivers, Stubs)
+* Integration (top, bottom, incremental)
+* Equivalence Partioning & Boundary Values Analysis
+
+Validation (Top of v-model)
+* Building the right product 
+* Black Box
+* System 
+* Acceptance 
+* Regression
+
+VDM & Formal Methods
+* Model Checking
+* Testing models 
+* Prove correctness
+* Simulation
