@@ -2,52 +2,34 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:55:11+01:00
 
-====== outline ======
-
-Context
+====== outline 16 ======
+**Context**
 * Baseline of validated requirements are done
 * Before development
-
-What is Software Architecture?
-* Address non-functional requirements
-* Address structure and behaviour 
-* (structure, components, interfaces, distribution)
-
-How to communicate the Architecture? 
+**What is Software Architecture?**
+* non-functional requirements
+* structure and behaviour 
+* components, interfaces, distribution
+**How to communicate the Architecture?** 
 	* Stakeholders need different info
 	* Structured seperation. 
-	* Avoid messy diagrams
 	* Krutchen 4+1
 		* Logical: Class, behaviour for implementation
 		* Development view: Component diagram 
 		* Physical: Package diagram of physical deployment
 		* Use Case
 		* Process: Illustrate concurrency Process view
-Architectural Styles/Patterns
+**Architectural Styles/Patterns**
 	* High level patterns to define structure and behaviour of system
 	* Standard solution to architectural problems
 	* Use the experience of others in templates. 
-	* Layer, N-tier, Pipe-and-filter, repository, client-server, MVC, MVVM. 
-	* Måske gå igennem attributter for bestemte
-Design Principles
+	* **Layer, repository**
+**Design Principles**
 	* Good principles to fo follow
 	* Cohesion, coubling, abstraction, reuse, testability, defensive design, divide and conquer. 
 	* Lower level: SOLID; DRY, YAGNI and KISS
-Design Patterns
+**Design Patterns**
 	* Use the experience of others in templates. 
 	* Lower level targeted on code. 
 	* Factory, Observer, Template, Adapter, Singleton
-
-
-Context
-
-What is Software Architecture
-
-How to communicate the Architecture?
-
-Architectural Styles/Patterns
-
-Design Principles
-
-Design Patterns
 

@@ -2,6 +2,39 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:55:30+01:00
 
+Terminology:
+* Safety Critical System
+	* Failures leads to loss of (Life, Health, Well Being)
+	* Safety is assured
+* Safety 
+	* Property ensures endangerment 
+	* No Accidents or losses
+	* Ensure safe operation
+* Security:
+	* System shall not be compromised
+* **Failsafe Sysatem:**
+	* **Fail in a safe state**
+* **Fault**
+	* **Cause of an error**
+* **Failure: **
+	* **Failing to perform intended function**
+* Useful lifetime
+	* Early Failures
+	* Random Failures
+	* Wearout Failures
+* Accident:
+	* Critical events that leads to disaster
+* Incident
+	* Less critical than accidents. Can  be come accident. 
+* Reliability 
+	* System does its intended function
+* Hazard
+	* Situation where there is the danger of accident occuring
+* Risk 
+	* Combining chance of hazardous event and its severity
+* Risk Management
+	* Reducing risks to tolerable risk or lower. 
+
 ====== Safety Critical Systems ======
 {{./pasted_image002.png}}
 ===== Terminology =====

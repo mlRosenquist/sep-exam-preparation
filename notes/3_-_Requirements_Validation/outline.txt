@@ -2,57 +2,35 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:54:13+01:00
 
-====== outline ======
-Tegne problem frames
-
-Context
-
-
-			 elicitation 
-analysis ↔ 			   ↔  validation  → SRS
-			specification
-
-Requirement Validation
+====== outline 34 ======
+**Context**
+* Requirement Process
+**Requirement Validation**
 	* Specification meets requirements
 	* Building the right thing
-Techiniques
-* Reviews
-	* Non-formal
-	* Discuss artificats
-	* Open atmosphere
-* Inspection
-	* Formal
-	* Trained moderator
-	* Legal, customer, supplier team
-	* Agenda 
-* Simulation & prototypes
-* Model Checking
+	**Techiniques**
+	* Reviews
+		* Non-formal
+		* Discuss artificats
+		* Open atmosphere
+	* Inspection
+		* Formal
+		* Trained moderator
+		* Legal, customer, supplier team
+		* Agenda 
+	* Simulation & prototypes
+	* Model Checking
 
-Visualization Techniques
-	* Problem Frames
+**Visualization Techniques**
+	* **Problem Frames**
 		* Conceptual level of problem
 		* Context Diagram
 		* Domain Interfaces 
 		* Shared Phenomonas
 		* (sub)Problem-diagram
 		* Frame Concern: argues that requirement are satisfied
-	* UML
+	* **UML**
 		* Structure / Behaviour
 		* Visualize functionality in non-formal diagrams
 		* Easy to understand
-		* Customer can validate requirements 
-
-
-Context
-
-Meeting Techniques
-* Reviews
-* Inspection
-
-Software Techniques
-* Simulation & Proto
-* Model Checking
-
-Vizualization Techniques
-* Problem Frames
-* UML
+		* Customer can validate requirements

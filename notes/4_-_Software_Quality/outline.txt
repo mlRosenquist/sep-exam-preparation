@@ -2,28 +2,27 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:55:04+01:00
 
-====== outline ======
+====== outline 46 ======
 
-Context
-
-What is Software Quality?
+* **What is Software Quality?**
 	* Meet specification
-	* Usability, Testability, Safety, Security, Maintainability, Efficiency, Reliability, Portability
-Why Important?
+	* Functional / Non-Functional
+	* Usability, Maintainability, etc. 
+* **Why Important?**
 	* Cost of error correction
 	* Can lead to useless systems
-How to ensure?
-	* Quality Management Process
+* **How to ensure?**
+	* **Quality Management Process**
 		* Quality Assurance
 			* Establish framework of procedure and standards
-			* (Software/Product/Process) Standards
+			* Standards: (Software(best practices)/Product(documentation)/Process(design, validation)) 
 			* ISO Standards
 		* Quality Planning
 			* Select the procedures and standard to use
 		* Quality Control
 			* See that the picked procedures and standards are used correctly. 
 			* Review and inspections
-Process improvement
+* **Process improvement**
 	* Quality of process and quality of product are correlated. 
 	* Understand existing process → Improve them and herbeby improve product quality
 	* What to measure
@@ -33,13 +32,3 @@ Process improvement
 	* CMMI 
 		* Classify each process if they are to be optimized. 
 
-
-Context
-
-What is Sotware Quality?
-
-Why Important?
-
-How to Ensure?
-
-Process improvement

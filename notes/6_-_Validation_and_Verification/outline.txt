@@ -2,29 +2,27 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:55:19+01:00
 
-====== outline ======
-
-
-Context
+====== outline 29 ======
+**Context**
 * Completed requirements and architecture. 
 * Requirements are verified (good) and validated (the right ones)
 * Now we want to develop some functionality
 
-Verification (bottom of v-model)
+**Verification (bottom of v-model)**
 * Building the product right
 * White box
 * Unit (Drivers, Stubs)
 * Integration (top, bottom, incremental)
 * Equivalence Partioning & Boundary Values Analysis
 
-Validation (Top of v-model)
+**Validation (Top of v-model)**
 * Building the right product 
 * Black Box
 * System 
 * Acceptance 
 * Regression
 
-VDM & Formal Methods
+**VDM & Formal Methods**
 * Model Checking
 * Testing models 
 * Prove correctness

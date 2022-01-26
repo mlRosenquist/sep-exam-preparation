@@ -2,26 +2,28 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:55:26+01:00
 
-====== outline ======
-
-Context
+====== outline 11 ======
+**Context**
 * Reuse attractive from management perspective
 * Dangerous if done wrongly
 * Smart if done cleverly 
-* Package Managers: Nuget / node.js
 
-What is reuse
+**What is reuse**
 * System, Application, Component, Object, Function, Concept
-Application Framework
+
+**Application Framework**
 * Structure and interfaces given, you just extend with your business needs. 
 * MVC frameworks, many .NET examples
 * Mobile Frameworks
 * Platform dependent
 
-Product Line
-* common architecture + shared components + some specialisation 
-* Many similar but not identical systems
+**Package Managers:** 
+* Nuget / node.js
 
-Perspectivation (Therac, Design Principle & Development Process)
+**Product Line**
+* Many similar but not identical systems
+* common architecture + shared components + some specialisation 
+
+**Perspectivation (Therac & Development Process)**
 * Therac dangerous reuse of software 
 * Component-Based Software Engineering

@@ -2,23 +2,26 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:54:05+01:00
 
-====== outline ======
-
-Context
-			 elicitation 
-analysis ↔ 			   ↔  validation  → SRS
-			specification
-
-* Requirements in General
+====== outline 24 ======
+**Context**
+* Requirement Process
+**Requirement Elicitation** 
 	* What
-	* Difficult
+		* Finding and formulating requirements
+		* Current work processes
+		* Issues and possibilites → requirements
+	* Exploratory
+		* Understand users
+	* Hard
+	* Who (Customer, User, Project Manager, Architect, Developer,  Domain Experts)
+	* How (Interviews, Observation, BrainStorm)
+**Requirements in General**
+	* What
 	* Consequences
-
-* Non-functional requirements
+**Non-functional requirements**
 	* QoS
 	* (Performance, Usability, Maintainability, Reliability, Safety, Security, Efficiency)
-
-* Functional Requirements
+**Functional Requirements**
 	* Use Cases
 	* Task Descriptions
 		* Catches business needs
@@ -28,38 +31,6 @@ analysis ↔ 			   ↔  validation  → SRS
 		* Lightweight
 		* Not complete
 		* Good for agile
-
-* Requirement Elicitation 
-	* Exploratory
-		* Understand users
-	* What
-		* Finding and formulating requirements
-		* Goal
-		* Current work processes
-		* Issues and possibilites → requirements
-	* Hard
-		* Hard to explain
-	* Who
-		* Customer
-		* Users
-		* Project Manager
-		* Developers
-		* Legal
-		* Domain expercts
-	* How 
-		* Interviews
-		* Observation
-		* Brainstorm
-
-Context
-
-Requirements in General
-
-Non-Functional Requirements
-
-Functional Requirements
-
-Requirement Elicitation
 
 
 

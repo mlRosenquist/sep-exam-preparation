@@ -2,41 +2,38 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-01-22T23:55:39+01:00
 
-====== outline ======
+====== outline 16 ======
 
-Context
-* You dont create something and then you are done. 
-* Things change interfaces,domain, requiremens and bugs
-* This is complex
+**Context**
+* Dont develop and forget
+* Interfaces,domain, requiremens and bugs
+* Lifetime
+* Complex
 
-Configuration Management
-* Change Mangement
-* System Building
-* Version Management
-* Release Management
-
-Configuration Management Planning
+**Configuration Management Planning**
 * What is to be managed
 * Who is responsible
 * Policies
 * Tools and Process
 * Configuration Database
 
-Change Management
+**Change Management**
 * Retrieve change requests - new requirements - verify and validate
 
-Version Management
+**Version Management**
 * Different Platforms
 * Link user version for bug fixing
 * Identification
 * Git (Branching (dev, master, features, hotfixes, releases))
 
-Release Management
+**Release Management**
 * Specific Version deemed for release
 * Which artifacts are included (exe, configuration, datafiles, guide, installation)
 
-System Building
+**System Building**
 * Build server
 * Scripts, automated. 
 * Build a version
 
+**Perspectivation**
+* Agile vs (Waterfall/V/Spiral)
